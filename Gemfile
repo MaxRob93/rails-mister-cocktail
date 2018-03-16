@@ -40,6 +40,7 @@ gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
 gem 'figaro'
+gem 'cloudinary'
 
 
 group :development, :test do
